@@ -1,2 +1,2 @@
 # DIGITAL_CLOCK
-begineer friendly javascript digital clock project
+just a clock using js
